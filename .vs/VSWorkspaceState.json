@@ -2,8 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\views"
+    "\\app_server\\controllers",
+    "\\app_server\\routes",
+    "\\bin",
+    "\\public",
+    "\\public\\bootstrap",
+    "\\public\\images",
+    "\\public\\javascripts",
+    "\\public\\stylesheets"
   ],
-  "SelectedNode": "\\app_server\\views\\mekanbilgisi.pug",
+  "SelectedNode": "\\app_server\\views\\yorumekle.pug",
   "PreviewInSolutionExplorer": false
 }
